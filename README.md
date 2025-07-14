@@ -24,7 +24,7 @@ valuefy/
 
 ## Prerequisites
 - Python 3.11+
-- Node.js 18+
+  React Js
 - MySQL Server
 - MongoDB Server
 
