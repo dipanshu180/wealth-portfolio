@@ -331,5 +331,4 @@ Returns the top 5 clients with the highest investment in the specified stock.
 
 ---
 
-## License
-MIT 
+
