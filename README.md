@@ -1,7 +1,7 @@
-# Valuefy Investment Management Platform
+# Natural Language Query System
 
 ## Overview
-Valuefy is a full-stack investment management platform that leverages both SQL (MySQL) and MongoDB databases. The backend is built with Python (FastAPI), and the frontend is developed using React (Vite). This project demonstrates integration with real, production-like databases for robust data management and analytics.
+ Natural Language Query System is a full-stack investment management platform that leverages both SQL (MySQL) and MongoDB databases. The backend is built with Python (FastAPI), and the frontend is developed using React (Vite). This project demonstrates integration with real, production-like databases for robust data management and analytics.
 
 ---
 
